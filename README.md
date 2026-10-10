@@ -6,7 +6,7 @@
 
 ## 下载与启动
 
-从仓库文件列表下载 `存档管家-v1.0.0.exe` 和 `存档管家图标.png`，放在同一目录后双击运行。exe 为单文件应用，无需安装 Python；首次联网检索游戏封面时需要网络连接。游戏封面缓存保存在旁边的 `icon` 文件夹。发布说明见 [GitHub Releases](https://github.com/metalmouse2022-dev/save-manager/releases)。
+从仓库文件列表下载 `存档管家-v1.0.0.exe` 和 `存档管家图标.png`，放在同一目录后双击运行。应用无需安装 Python；exe 从旁边的 PNG 读取左上角品牌图标。首次联网检索游戏封面时需要网络连接；游戏封面缓存保存在程序旁的 `icon` 文件夹。发布说明见 [GitHub Releases](https://github.com/metalmouse2022-dev/save-manager/releases)。
 
 也可下载源码运行：安装 Python 3.10 或更新版本（需包含 Tcl/Tk），在此目录执行：
 
