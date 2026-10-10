@@ -1,0 +1,18 @@
+# Per-user UI state and downloaded game-cover cache
+存档管家.ini
+icon/
+存档管家.exe
+存档管家-图标更新版.exe
+
+# Build and Python artifacts
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# Local logs and OS metadata
+*.log
+Thumbs.db
+Desktop.ini
+
